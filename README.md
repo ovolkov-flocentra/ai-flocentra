@@ -90,12 +90,12 @@ Target markets: US & EU.
 
 ## ⚙️ How We Work
 
-1. Process Audit — Identify automation leverage points  
-2. System Architecture — Design structured workflow  
-3. AI Layer Design — Define prompts, guardrails, outputs  
-4. Implementation — Build & integrate  
-5. Hardening — Add validation, logging, error handling  
-6. Handover or Long-Term Partnership  
+1. Process Audit — Identify automation leverage points
+3. System Architecture — Design structured workflow  
+4. AI Layer Design — Define prompts, guardrails, outputs  
+5. Implementation — Build & integrate  
+6. Hardening — Add validation, logging, error handling  
+7. Handover or Long-Term Partnership  
 
 ---
 
